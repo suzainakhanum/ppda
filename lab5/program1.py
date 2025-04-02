@@ -10,6 +10,6 @@ def calculator(num1,num2):
 		print(num1**num2)
 	else:
 		return num1+num2
-		
-kal=calculator(10,20)
-print(kal)	
+	
+calculator()
+	
